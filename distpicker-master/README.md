@@ -1,6 +1,7 @@
 # Distpicker
-
+CopyBY:Hui Wu
 > A simple jQuery plugin for picking provinces, cities and districts of China.
+>example: http://www.17sucai.com/pins/demoshow/19007
 
 
 
